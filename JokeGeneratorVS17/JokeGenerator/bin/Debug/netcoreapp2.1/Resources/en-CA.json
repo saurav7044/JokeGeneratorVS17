@@ -1,0 +1,23 @@
+{
+  "GenericExceptionMessage": "Something went wrong that we did not expect.",
+  "ExpectedExceptionMessage": "Something went wrong that can be fixed.",
+  "Question_HowManyJokes": "How many jokes do you want? (1-9)",
+  "PRESS_ENTER": "[Press enter]",
+  "Question_EnterACategory": "Enter a category:",
+  "Question_WantACategory": "Want to specify a category? y/n",
+  "Question_LastName": "Please enter a last name",
+  "Question_FirstName": "Please enter a first name",
+  "Question_RandomName": "Want to use a random name? y/n",
+  "Prompt_CIsForCategories": "C: To get categories",
+  "Prompt_RIsForRandomJokes": "R: To get random jokes",
+  "Prompt_QIsToQuit": "Q: To quit",
+  "Prompt_IntroLine?OrQuit": "?: To get instructions.",
+  "Prompt_PleaseWaitLoading": "Please wait while objects are loaded...",
+  "Error_EnterValidCategory": "Your need to enter a valid category from the following list:",
+  "Error_IncorrectAnser": "User did not enter a correct answer.",
+  "Error_IncorrectNumberValue": "Your need to enter a positive numeric value.",
+  "PleaseTryAgain": "Please try again.",
+  "AnswerOptionsAre": "Your options to respond to the question(s) were: {0}",
+  "PressKey": "Press one of the following keys: ",
+  "PressKeyContinue": "Press a key to continue"
+}
